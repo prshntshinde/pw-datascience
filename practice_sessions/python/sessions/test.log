@@ -1,0 +1,15 @@
+INFO:root:This is my line of exeution
+ERROR:root:This is my error
+CRITICAL:root:This is critical message
+INFO:root:This is my info
+INFO:root:This is my info
+INFO:root:This is my line of exeution
+ERROR:root:This is my error
+CRITICAL:root:This is critical message
+INFO:root:This is my info
+INFO:root:This is my info
+INFO:root:This is my info
+INFO:root:This is my info
+WARNING:root:is when this event was logged.
+WARNING:root:is when this event was logged.
+WARNING:root:is when this event was logged.
