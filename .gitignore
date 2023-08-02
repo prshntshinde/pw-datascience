@@ -1,1 +1,4 @@
 .vscode/
+
+# Virtual Environments files
+venv/
