@@ -2,3 +2,6 @@
 
 # Virtual Environments files
 venv/
+
+# Datasets
+datasets/
