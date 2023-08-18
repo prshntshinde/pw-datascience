@@ -7,4 +7,5 @@ Index
 3. Web API ✔
 4. Flask ✔
 5. Pandas ✔
-6. Numpy 👨‍💻
+6. Numpy ✔
+7. Visualization 👨‍💻
