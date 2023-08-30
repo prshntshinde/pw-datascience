@@ -8,4 +8,5 @@ Index
 4. Flask ✔
 5. Pandas ✔
 6. Numpy ✔
-7. Visualization 👨‍💻
+7. Visualization ✔
+8. Statistics 👨‍💻
