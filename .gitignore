@@ -2,6 +2,7 @@
 
 # Virtual Environments files
 venv/
+.venv
 
 # Datasets
 datasets/
