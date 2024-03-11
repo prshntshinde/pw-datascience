@@ -11,21 +11,22 @@ Repository for all contents related to the PW Data Science course.
 5. Pandas ✔
 6. Numpy ✔
 7. Visualization ✔
-8. Statistics 👨‍💻
+8. Statistics 👨‍💻 ✔
+9. Machine Learning 🤖 
 
 ## Steps to clone project:
 
 1. Create a new virtual environment.
 
-- In console typ the following command.
+- In the console type the following command.
   - `py -m venv .venv`
 
 2. Activate a virtual environment.
 
-- In console typ the following command.
+- In the console type the following command.
   - `.venv\Scripts\activate`
 
 3. Installing packages using a requirements file.
 
-- In console typ the following command.
+- In the console type the following command.
   - `py -m pip install -r requirements.txt`
