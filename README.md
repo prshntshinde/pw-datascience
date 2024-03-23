@@ -12,7 +12,11 @@ Repository for all contents related to the PW Data Science course.
 6. Numpy ✔
 7. Visualization ✔
 8. Statistics 👨‍💻 ✔
-9. Machine Learning 🤖 
+9. Machine Learning 🤖
+
+- Intro ✔
+- Feature Engineering ✔
+- Exploratory Data Analysis 📝
 
 ## Steps to clone project:
 
